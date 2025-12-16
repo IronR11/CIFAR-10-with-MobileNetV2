@@ -17,19 +17,6 @@ models/    -> model info (no weights)
 data/      -> dataset info
 
 
-## How to Run
-
-1. Create virtual environment
-```bash
-python -m venv venv
-
-2. venv\Scripts\activate  
-
-3. pip install -r requirements.txt
-
-4. python src/mark_3_classification_1_cifar_10.py
-
-
 
 
 
