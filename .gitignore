@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+venv/
+.ipynb_checkpoints/
+data/
+models/
+*.h5
+*.ckpt
+logs/
+*.log
+.DS_Store
+Thumbs.db
+trained_models/
